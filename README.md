@@ -35,13 +35,19 @@ Configuration.properties dosyasından ayarlanmaktadır. Ayrıca burada testin ge
 
 ![image](https://user-images.githubusercontent.com/111094912/199600150-45da611b-05ad-4cfa-978d-0104e6eb690e.png)
 
-### III- Raporlama:
+### III- Reporting:
 
-Our test steps given in the framework of Practicum were written within the framework of clean code principles and all of them worked successfully. Jul. In order for the user to test the codes we have written manually, two reporting methods have been used. The reporting methods we have used are log4j2 and the screenshot taking method.
+Our test steps given within the framework of the application were written within the framework of clean code principles and all of them were completed successfully. In order for the user to test the codes we have written manually, two reporting methods have been used and all of these reports have been saved to the target folder. The reporting methods we use are log4j2 and the screenshot taking method.
 
+1-) Reporting using the log4j2 method
 
+![image](https://user-images.githubusercontent.com/111094912/199611639-167649a0-d83d-4991-9b95-6eb34510afe9.png)
 
-### IV- Projede Kullanılan Tool ve Teknolojiler:
+2-) Reporting using the screenshot taking method
+
+![image](https://user-images.githubusercontent.com/111094912/199612204-02b83fb3-617b-4651-9bae-6eb59f4ffb20.png)
+
+### IV- Tools and Technologies Used in the Project:
 
 •	Java
 
@@ -51,6 +57,6 @@ Our test steps given in the framework of Practicum were written within the frame
 
 •	Maven
 
-•	POM (Page Object Model | Sayfa Nesne Modeli)
+•	POM (Page Object Model)
 
 •	OOP (Object Oriented Programming)
