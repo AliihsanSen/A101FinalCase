@@ -1,8 +1,8 @@
 ## A101FinalCase ABOUT PROJECT
 
-Bu proje, Patika.dev & A101 Yeni Mağazacılık A.Ş. Practicum bitirme projesi olarak geliştirilmiştir.
+This project is the Path.dev & A101 New Merchandising A.S. Practicum was developed as a graduation project.
 
-### I- Test Senaryosu:
+### I- Test Scenario:
 
 https://www.hepsiburada.com/ adresinden, login yapılarak ve login yapılmadan herhangi bir ürün aratılmıştır. Kullanıcı tarafından aranan ürün her 2 test içinde ayrı ayrı olarak iki farklı satıcıdan sepete eklenmiş ve sepete eklenme adımları test edilmiştir.
 
