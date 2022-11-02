@@ -35,7 +35,12 @@ Configuration.properties dosyasından ayarlanmaktadır. Ayrıca burada testin ge
 
 ![image](https://user-images.githubusercontent.com/111094912/199600150-45da611b-05ad-4cfa-978d-0104e6eb690e.png)
 
-### III- Projede Kullanılan Tool ve Teknolojiler;
+### III- Raporlama:
+
+
+
+
+### IV- Projede Kullanılan Tool ve Teknolojiler:
 
 •	Java
 
