@@ -31,7 +31,7 @@ Configuration.properties dosyasından ayarlanmaktadır. Ayrıca burada testin ge
 
 ![image](https://user-images.githubusercontent.com/111094912/199597222-c023fb87-b2bd-412e-9a30-0057293641df.png)
 
-3-) Proje, src/test/java/tests/HepsiBuradaLoginTest01.java ve src/test/java/tests/HepsiBuradaTest02.java dosyasalarından ayrı ayrı çalıştırılabilmektedir.
+3-) Proje, src/test/java/tests/HepsiBuradaLoginTest01.java ve src/test/java/tests/HepsiBuradaTest02.java dosyalarından ayrı ayrı çalıştırılabilmektedir.
 
 ![image](https://user-images.githubusercontent.com/111094912/199600150-45da611b-05ad-4cfa-978d-0104e6eb690e.png)
 
