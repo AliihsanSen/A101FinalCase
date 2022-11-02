@@ -61,3 +61,9 @@ Our test steps given within the framework of the application were written within
 •	POM (Page Object Model)
 
 •	OOP (Object Oriented Programming)
+
+### V- Running the Test:
+
+The test steps described above were recorded on video by running them as an example.
+
+https://drive.google.com/file/d/1ymOBLXjyUeIOwPvM_gt89eQX0pSni36A/view?usp=sharing
