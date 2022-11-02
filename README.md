@@ -2,7 +2,7 @@
 
 Bu proje, Patika.dev & A101 Yeni Mağazacılık A.Ş. Practicum bitirme projesi olarak geliştirilmiştir.
 
-### Test Senaryosu:
+### I- Test Senaryosu:
 
 https://www.hepsiburada.com/ adresinden, login yapılarak ve login yapılmadan herhangi bir ürün aratılmıştır. Kullanıcı tarafından aranan ürün her 2 test içinde ayrı ayrı olarak iki farklı satıcıdan sepete eklenmiş ve sepete eklenme adımları test edilmiştir.
 
@@ -23,7 +23,7 @@ Configuration.properties dosyasından ayarlanmaktadır. Ayrıca burada testin ge
 
 •	productToSearch2  : Login yapılmadan aranacak ürün. 
 
-### Projenin Çalıştırılması:
+### II- Projenin Çalıştırılması:
 
 1-) Projenin çalıştırılacağı bilgisayarda Java SDK ve Apache Maven kurulu olmalıdır. Ayrıca raporlamaların stabil çalışabilmesi için log4j2 ile ilgili gerekli kütüphaneler oluşturulmalıdır. 
 
@@ -35,7 +35,7 @@ Configuration.properties dosyasından ayarlanmaktadır. Ayrıca burada testin ge
 
 ![image](https://user-images.githubusercontent.com/111094912/199600150-45da611b-05ad-4cfa-978d-0104e6eb690e.png)
 
-### Projede Kullanılan Tool ve Teknolojiler;
+### III- Projede Kullanılan Tool ve Teknolojiler;
 
 •	Java
 
