@@ -37,6 +37,7 @@ Configuration.properties dosyasından ayarlanmaktadır. Ayrıca burada testin ge
 
 ### III- Raporlama:
 
+Our test steps given in the framework of Practicum were written within the framework of clean code principles and all of them worked successfully. Jul. In order for the user to test the codes we have written manually, two reporting methods have been used. The reporting methods we have used are log4j2 and the screenshot taking method.
 
 
 
