@@ -4,10 +4,11 @@ This project is the Path.dev & A101 New Merchandising A.S. Practicum was develop
 
 ### I- Test Scenario:
 
-https://www.hepsiburada.com/ adresinden, login yapılarak ve login yapılmadan herhangi bir ürün aratılmıştır. Kullanıcı tarafından aranan ürün her 2 test içinde ayrı ayrı olarak iki farklı satıcıdan sepete eklenmiş ve sepete eklenme adımları test edilmiştir.
+https://www.hepsiburada.com / any product has been searched from the address, with and without login. The product requested by the user was added to the cart from two different sellers separately within each 2 tests and the steps of adding to the cart were tested.
 
 #### Parametrik olarak alınacak veriler:
-Configuration.properties dosyasından ayarlanmaktadır. Ayrıca burada testin gerçekleştirileceği tarayıcı seçimi yapılabilmektedir (Proje Chrome, Firefox ve Edge tarayıcılarını desteklemektedir.).
+it is set from the Configuration.properties file.
+Configuration.properties dosyasından ayarlanmaktadır. In addition, the selection of the scanner where the test will be performed can be made here (The project supports Chrome, Firefox and Edge browsers.).
 
 ![image](https://user-images.githubusercontent.com/111094912/199593869-a82179bc-e2f0-48a0-91c9-cbd9a66e22b3.png)
 
