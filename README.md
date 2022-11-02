@@ -12,17 +12,17 @@ Configuration.properties dosyasından ayarlanmaktadır. In addition, the selecti
 
 ![image](https://user-images.githubusercontent.com/111094912/199593869-a82179bc-e2f0-48a0-91c9-cbd9a66e22b3.png)
 
-•	browser           : Testin gerçekleştirileceği browser.
+•	browser           : The browser where the test will be performed.
 
-•	hepsiburadaUrl    : Testin gerçekleştirileceği web sayfasının linki.
+•	hepsiburadaUrl    : Link to the web page where the test will be performed.
 
-•	userMail          : Login testinde kullanılacak email adresi.
+•	userMail          : The email address that will be used in the login test.
 
-•	userPassword      : Login testinde kullanılacak password.
+•	userPassword      : The password that will be used in the login test.
 
-•	productToSearch1  : Login testinde aranacak ürün.
+•	productToSearch1  : The product to be searched for in the login test.
 
-•	productToSearch2  : Login yapılmadan aranacak ürün. 
+•	productToSearch2  : The product to be searched for without login.
 
 ### II- Projenin Çalıştırılması:
 
