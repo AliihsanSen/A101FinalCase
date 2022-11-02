@@ -26,13 +26,13 @@ Configuration.properties dosyasından ayarlanmaktadır. In addition, the selecti
 
 ### II- Projenin Çalıştırılması:
 
-1-) Projenin çalıştırılacağı bilgisayarda Java SDK ve Apache Maven kurulu olmalıdır. Ayrıca raporlamaların stabil çalışabilmesi için log4j2 ile ilgili gerekli kütüphaneler oluşturulmalıdır. 
+1-) The Java SDK and Apache Maven must be installed on the computer where the project will be run. In addition, the necessary libraries related to log4j2 should be created in order for the reporting to work stably. 
 
-2-) Bu bir Maven projesidir. Projenin ilk başta çalışmaması halinde, tek yapılması gereken pom.xml dosyasını açarak gerekli kütüphaneleri yüklemek olacaktır. İlgili klasöre gerekli kütüphaneleri yükledikten sonra Intellij için sağ tarafta bulunan maven sekmesi açılarak aşağıda kırmızı kutu içersinde gösterilen uptade simgesine tıklamak yeterli olacaktır.
+2-) This is a project Maven. If the project doesn't work at first, all that needs to be done is to open the pom.xml file and install the necessary libraries. After uploading the necessary libraries to the corresponding folder, the maven tab for Intellij, located on the right, will open and it will be enough to click on the update icon shown in the red box below.
 
 ![image](https://user-images.githubusercontent.com/111094912/199597222-c023fb87-b2bd-412e-9a30-0057293641df.png)
 
-3-) Proje, src/test/java/tests/HepsiBuradaLoginTest01.java ve src/test/java/tests/HepsiBuradaTest02.java dosyalarından ayrı ayrı çalıştırılabilmektedir.
+3-) The project can be run separately from src/test/java/tests/HepsiBuradaLoginTest01.java and src/test/java/tests/HepsiBuradaTest02.java files.
 
 ![image](https://user-images.githubusercontent.com/111094912/199600150-45da611b-05ad-4cfa-978d-0104e6eb690e.png)
 
