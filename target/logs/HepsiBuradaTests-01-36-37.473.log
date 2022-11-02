@@ -1,0 +1,3 @@
+2022-11-03 01:36:37,472 INFO t.HepsiBuradaTest02 [main] Kullanici, açilan sayfayi daha iyi gorebilmek icin sayfayi biraz asagi kaydirir
+2022-11-03 01:36:41,886 INFO t.HepsiBuradaTest02 [main] Kullanici, arama sonucunda ekrana gele urun listesinden (veya tek bir sonuc da donmus olabilir) urun secer
+2022-11-03 01:36:42,055 INFO t.HepsiBuradaTest02 [main] Kullanici, açilan sayfadaki urunun yeni bir sekmede acildigini gorur, bu nedenle yeni sekmede islem yapabilmek icin 'windowhandles' degerlerini alip bir set'e atar

@@ -1,0 +1,4 @@
+2022-11-03 01:37:33,386 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, açılan sayfanin 'Sepetim' sayfasi oldugunu dogrular
+2022-11-03 01:37:34,313 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sepete ekledigi ilk urunun İKoncan saticisindan oldugunu dogrular
+2022-11-03 01:37:34,399 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sepete ekledigi urunun eklemek istedigi dogru urun oldugunu daha onceden aldigi urun adi ile karsilastirarak dogrulama yapar
+2022-11-03 01:37:34,467 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sepete ekledigi ikinci urunun Madam10 saticisindan oldugunu dogrular

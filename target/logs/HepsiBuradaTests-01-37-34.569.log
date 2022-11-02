@@ -1,0 +1,2 @@
+2022-11-03 01:37:34,568 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sepete ekledigi urunun eklemek istedigi dogru urun oldugunu daha onceden aldigi urun adi ile karsilastirarak dogrulama yapar
+2022-11-03 01:37:34,598 WARN t.HepsiBuradaLoginTest01 [main] Kullanici, testin başından sonuna kadar acilan tum sayfalari kapatarak test islemine son verir

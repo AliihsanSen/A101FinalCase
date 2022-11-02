@@ -1,0 +1,3 @@
+2022-11-03 01:37:23,374 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, daha onceden almis olduğu Set araciligi ile buldugu yeni sekmenin 'windowhandle' degeri kullanarak driveri yeni sekmeye gecirir
+2022-11-03 01:37:23,381 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, yeni sekmede acilan urunun basligini testin daha sonraki asamalarinda kullanacagi icin String bir variable'a atar
+2022-11-03 01:37:25,108 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, açilan sayfadaki urunu ilk saticidan sepete ekler

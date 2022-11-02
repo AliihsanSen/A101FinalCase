@@ -1,0 +1,5 @@
+2022-11-03 01:37:03,814 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, https://www.hepsiburada.com/ sitesini ziyaret eder
+2022-11-03 01:37:08,161 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sayfada çıkan cookie'leri kabul eder
+2022-11-03 01:37:08,235 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sayfada bulunan 'Login or Signin' butonunun uzerine gelir ve bekler
+2022-11-03 01:37:08,369 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sayfada acilan pop-up'taki log-in butonuna tiklar
+2022-11-03 01:37:09,626 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, daha onceden olusturulmus unıque bir emaili ilgili yere girer

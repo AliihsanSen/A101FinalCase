@@ -1,0 +1,4 @@
+2022-11-03 01:37:25,354 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, urun eklendikten sonra sayfada cikan bilgilendirme pop-up'ini kapatir
+2022-11-03 01:37:28,874 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, ikinci saticidan ayni urunu eklemek icin sayfayi asagiya kaydirir
+2022-11-03 01:37:29,398 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, ayni urunu sitedeki mevcut ikinci saticidan da sepete ekler
+2022-11-03 01:37:29,517 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, ekledigi urunlerin dogrulugunu test edebilmek icin sepetim sayfasina gider
