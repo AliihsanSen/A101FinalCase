@@ -15,14 +15,14 @@ import utilities.ScreenShot;
 import java.io.IOException;
 import java.util.Set;
 
-public class HepsiBuradaTest01 {
+public class HepsiBuradaLoginTest01 {
 
     Actions actions = new Actions(Driver.getDriver());
     HepsiBuradaLoginPage hepsiBuradaLoginPage=new HepsiBuradaLoginPage();
     HepsiBuradaPage hepsiBuradaPage = new HepsiBuradaPage();
     SoftAssert softAssert=new SoftAssert();
     ScreenShot screenShot=new ScreenShot();
-    private static Logger logger= LogManager.getLogger(HepsiBuradaTest01.class.getName());
+    private static Logger logger= LogManager.getLogger(HepsiBuradaLoginTest01.class.getName());
 
 
 
