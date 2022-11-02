@@ -40,11 +40,11 @@ Configuration.properties dosyasından ayarlanmaktadır. In addition, the selecti
 
 Our test steps given within the framework of the application were written within the framework of clean code principles and all of them were completed successfully. In order for the user to test the codes we have written manually, two reporting methods have been used and all of these reports have been saved to the target folder. The reporting methods we use are log4j2 and the screenshot taking method.
 
-1-) Reporting using the log4j2 method
+#### 1-) Reporting using the log4j2 method
 
 ![image](https://user-images.githubusercontent.com/111094912/199611639-167649a0-d83d-4991-9b95-6eb34510afe9.png)
 
-2-) Reporting using the screenshot taking method
+#### 2-) Reporting using the screenshot taking method
 
 ![image](https://user-images.githubusercontent.com/111094912/199612204-02b83fb3-617b-4651-9bae-6eb59f4ffb20.png)
 
