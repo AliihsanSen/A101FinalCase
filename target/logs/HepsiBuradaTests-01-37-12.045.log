@@ -1,4 +1,0 @@
-2022-11-03 01:37:12,044 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sayfadaki login butonuna tiklar
-2022-11-03 01:37:12,108 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, istenilen formattaki sifresini ilgili yere girer
-2022-11-03 01:37:12,955 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, sifresini girdikten sonra sayfadaki login butonuna tiklar
-2022-11-03 01:37:13,006 INFO t.HepsiBuradaLoginTest01 [main] Kullanici, yonlendirmeden sonra gelen anasayfada kullanici girisinin yapildigini dogrular
