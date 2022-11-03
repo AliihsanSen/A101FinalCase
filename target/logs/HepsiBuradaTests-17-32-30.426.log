@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 2022-11-03 17:32:30,426 INFO t.HepsiBuradaTest02 [main] Kullanici, ikinci saticidan ayni urunu eklemek icin sayfayi asagiya kaydirir
 2022-11-03 17:32:31,038 INFO t.HepsiBuradaTest02 [main] Kullanici, ayni urunu sitedeki mevcut ikinci saticidan da sepete ekler
 2022-11-03 17:32:31,192 INFO t.HepsiBuradaTest02 [main] Kullanici, ekledigi urunlerin dogrulugunu test edebilmek icin sepetim sayfasina gider
 2022-11-03 17:32:35,111 INFO t.HepsiBuradaTest02 [main] Kullanici, açılan sayfanin 'Sepetim' sayfasi oldugunu dogrular
+=======
+2022-11-03 17:32:30,426 INFO t.HepsiBuradaTest02 [main] Kullanici, ikinci saticidan ayni urunu eklemek icin sayfayi asagiya kaydirir
+2022-11-03 17:32:31,038 INFO t.HepsiBuradaTest02 [main] Kullanici, ayni urunu sitedeki mevcut ikinci saticidan da sepete ekler
+2022-11-03 17:32:31,192 INFO t.HepsiBuradaTest02 [main] Kullanici, ekledigi urunlerin dogrulugunu test edebilmek icin sepetim sayfasina gider
+2022-11-03 17:32:35,111 INFO t.HepsiBuradaTest02 [main] Kullanici, açılan sayfanin 'Sepetim' sayfasi oldugunu dogrular
+>>>>>>> c221964205c70121298ec0c044dffadd0a9e43b0

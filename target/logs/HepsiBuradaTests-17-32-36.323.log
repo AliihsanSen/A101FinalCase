@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 2022-11-03 17:32:36,322 INFO t.HepsiBuradaTest02 [main] Kullanici, testin basında sepete ekledigi urunlerin ekran goruntuleri sayesinde manuel olarak da dogrular
 2022-11-03 17:32:36,486 WARN t.HepsiBuradaTest02 [main] Kullanici, testin başından sonuna kadar acilan tum sayfalari kapatarak test islemine son verir
+=======
+2022-11-03 17:32:36,322 INFO t.HepsiBuradaTest02 [main] Kullanici, testin basında sepete ekledigi urunlerin ekran goruntuleri sayesinde manuel olarak da dogrular
+2022-11-03 17:32:36,486 WARN t.HepsiBuradaTest02 [main] Kullanici, testin başından sonuna kadar acilan tum sayfalari kapatarak test islemine son verir
+>>>>>>> c221964205c70121298ec0c044dffadd0a9e43b0
