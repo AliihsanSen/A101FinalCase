@@ -47,9 +47,9 @@ public class HepsiBuradaPage {
     public WebElement firstProductInfoBox;
     @FindBy(xpath = "(//div[@class='merchantBoxWrapper_10ife'])[2]")
     public WebElement secondProductInfoBox;
-<<<<<<< HEAD
+
 
 }
-=======
-}
->>>>>>> c221964205c70121298ec0c044dffadd0a9e43b0
+
+
+
