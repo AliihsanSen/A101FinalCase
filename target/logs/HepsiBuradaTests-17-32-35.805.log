@@ -1,0 +1,4 @@
+2022-11-03 17:32:35,804 INFO t.HepsiBuradaTest02 [main] Kullanici, sepete ekledigi ilk urunun Hobiparfumeri saticisindan oldugunu dogrular
+2022-11-03 17:32:36,096 INFO t.HepsiBuradaTest02 [main] Kullanici, sepete ekledigi urunun dogru urun oldugunu daha onceden aldigi urun adi ile karsilastirarak dogrulama yapar
+2022-11-03 17:32:36,157 INFO t.HepsiBuradaTest02 [main] Kullanici, sepete ekledigi diger urunun Flormar Türkiye saticisindan oldugunu dogrular
+2022-11-03 17:32:36,289 INFO t.HepsiBuradaTest02 [main] Kullanici, sepete ekledigi urunun eklemek istedigi dogru urun oldugunu daha onceden aldigi urun adi ile karsilastirarak dogrulama yapar
