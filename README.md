@@ -34,7 +34,7 @@ Configuration.properties dosyasından ayarlanmaktadır. In addition, the selecti
 
 3-) The project can be run separately from src/test/java/tests/HepsiBuradaLoginTest01.java and src/test/java/tests/HepsiBuradaTest02.java files.
 
-![image](https://user-images.githubusercontent.com/111094912/199600150-45da611b-05ad-4cfa-978d-0104e6eb690e.png)
+![image](https://user-images.githubusercontent.com/111094912/199766065-f60a1e2c-c413-4cff-8b3a-2802dca21621.png)
 
 ### III- Reporting:
 
